@@ -2,7 +2,7 @@
 
 Console.Clear();
 
-int n = new Random().Next(100,1000);
-int n1 = (n / 100) % 10;
+int n = 918;
+int n1 = (n / 10) % 10;
 
 Console.WriteLine(n1);
